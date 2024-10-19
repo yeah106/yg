@@ -2,12 +2,16 @@
 
 {
     "urls": [
-{
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/hrys.json",
+        {
+            "url": "https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fhrys.json?ref=main",
             "name": "华人影视"
-        }, {
-            "url": "",
-            "name": "华人"
+        },{
+            "url": "https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fhrys.json?ref=main",
+            "name": "华人影视备1"
+        }, 
+{
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/hrys.json",
+            "name": "华人影视备2"
         }
     ]
 }

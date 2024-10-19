@@ -3,8 +3,8 @@
     "name": "推薦",
     "list": [
       {
-        "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/bhmb.jpg",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/bhmb.jpg"
+        "url": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/bhmb.jpg",
+        "icon": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/bhmb.jpg"
       }
     ]
   },
@@ -13,32 +13,37 @@
     "list": [
       {
         "name": "宝盒TV",
-        "url": "https://cloud.lxweb.cn/f/ZMkoTz/%E5%AE%9D%E7%9B%92TV0413.apk",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/bhtv.png",
-        "version": "2.3.3"
+        "url": "https://3043.kstore.space/wj/bhVIP.apk",
+        "icon": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/bhtv.png",
+        "version": "VIP版"
       },
       {
         "name": "宝盒BOX",
-        "url": "https://cloud.lxweb.cn/f/QBmES1/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92BOX.apk",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/box.jpg",
-        "version": "0413"
+        "url": "https://3043.kstore.space/wj/月光宝盒Box.apk",
+        "icon": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/box.jpg",
+        "version": "最新版"
       },
       {
         "name": "宝盒PLUS",
-        "url": "https://cloud.lxweb.cn/f/zDVjcz/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92PLUS.apk",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/plus.jpg",
-        "version": "0414"
+        "url": "https://3043.kstore.space/wj/PLUS1017.apk",
+        "icon": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/plus.jpg",
+        "version": "最新版"
       },{
         "name": "宝盒MAX",
-        "url": "https://cloud.lxweb.cn/f/gm9wSK/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92MAX427.apk",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/max.jpg",
-        "version": "0426"
+        "url": "https://3043.kstore.space/wj/Max1017.apk",
+        "icon": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/max.jpg",
+        "version": "0912"
       },
       {
         "name": "宝盒影视仓",
-        "url": "https://cloud.lxweb.cn/f/kraoTp/%E6%9C%88%E5%85%89%E5%BD%B1%E8%A7%86%E4%BB%935.0.28.apk",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/ysc.jpg",
-        "version": "5.028"
+        "url": "https://cloud.lxweb.cn/f/1wnBce/%E6%9C%88%E5%85%89%E5%BD%B1%E8%A7%86%E4%BB%930708.apk",
+        "icon": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/ysc.jpg",
+        "version": "5.032"
+      },{
+        "name": "宝盒直播3.0",
+        "url": "https://pan.7so.top/f/5yDDS6/%E6%96%B0%E7%89%88%E5%A0%A1%E7%9B%92%E7%9B%B4%E6%92%AD3.0.apk",
+        "icon": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/ygzb.jpg",
+        "version": "3.0"
       }
     ]
   },
@@ -46,57 +51,42 @@
   {
     "name": "其他娱乐类",
     "list": [
-      {
-        "name": "秒看TV（随意注册）",
-        "url": "https://cloud.lxweb.cn/f/aNLgh6/%E7%A7%92%E7%9C%8BTV.apk",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/mk.jpg",
+     {
+        "name": "电视家破解版",
+        "url": "https://ygbh.site/wj/dsj.apk",
+        "icon": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/dsj.jpg",
         "version": "1.0.7"
       },{
-        "name": "我的电视",
-        "url": "https://cloud.lxweb.cn/f/mgrACj/my-tv-v1.8.4.apk",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/wd.jpg",
-        "version": "1.8.4"
-      },{
-        "name": "IPTV（不定期免费）",
-        "url": "https://cloud.lxweb.cn/f/PkPOUb/IPTV.apk",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/iptv.jpg",
-        "version": "最新版"
-      }, {
-        "name": "SKY（仅供测试）",
-        "url": "https://cloud.lxweb.cn/f/PkGlUb/sky.apk",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/sky.jpg",
-        "version": "仅供测试"
-      },{
-        "name": "电视大全直播",
-        "url": "https://cloud.lxweb.cn/f/pLD0se/dsdq.apk",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/dsdq.jpg",
-        "version": "1.3.2"
-      },{
-        "name": "独播库TV版",
-        "url": "https://cloud.lxweb.cn/f/zeGbiz/%E7%8B%AC%E6%92%AD%E5%BA%93TV_5.5.apk",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/dbk.jpg",
-        "version": "5.5"
-      },{
         "name": "纯粹直播",
-        "url": "https://cloud.lxweb.cn/f/07YVU0/%E7%BA%AF%E7%B2%B9%E7%9B%B4%E6%92%AD.apk",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/cc.jpg",
-        "version": "1.6.8"
+        "url": "https://ygbh.site/wj/sl.apk",
+        "icon": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/cc.jpg",
+        "version": "1.7.2"
       }, {
         "name": "梨园行戏曲",
-        "url": "https://cloud.lxweb.cn/f/BY7Ys9/lyx.apk",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/lyx.jpg",
+        "url": "https://ygbh.site/wj/lyx.apk",
+        "icon": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/lyx.jpg",
         "version": "登录即是VIP"
       },{
         "name": "应用管家",
-        "url": "https://cloud.lxweb.cn/f/q1qGfe/%E5%BA%94%E7%94%A8%E7%AE%A1%E5%AE%B6.apk",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/gj.jpg",
+        "url": "https://ygbh.site/wj/gj.apk",
+        "icon": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/gj.jpg",
         "version": "V1.3.4"
+      },{
+        "name": "看看影视",
+        "url": "https://ygbh.site/wj/kk.apk",
+        "icon": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/dbzm.jpg",
+        "version": "破解版"
+      },{
+        "name": "今日(邀请码15908)",
+        "url": "https://ygbh.site/wj/jr.apk",
+        "icon": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/jrys.jpg",
+        "version": "邮箱注册邀请码15908"
       },
       {
         "name": "KTV（K歌）",
-        "url": "https://d.kstore.space/download/3043/js/KTV.apk",
-        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/kg.jpg",
-        "version": "40版"
+        "url": "https://pan.7so.top/f/xGqXfx/KTV.apk",
+        "icon": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/kg.jpg",
+        "version": "60版"
       }
     ]
   }
