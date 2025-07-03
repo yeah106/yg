@@ -708,7 +708,7 @@
         "搜索url":"https://www.ttdao6614.buzz/index.php/vod/search.html?page/{pg}/wd/{wd}/",
         "分类数组":"<a&&/a",
         "分类标题":">&&<",
-        "分类ID":"/vod/type/id/&&.html",
+        "分类ID":"/index.php/vod/type/id/&&.html",
         "分类url":"https://www.ttdao6614.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}}, {
             "key": "avge",
             "name": "💗┃💋AVge┃💠",
