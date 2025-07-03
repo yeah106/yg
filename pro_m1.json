@@ -705,11 +705,11 @@
         "链接":"https://www.ttdao6614.buzz/index.php/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
         "跳转播放链接":"var player_*\"url\":\"&&\"",
         "搜索模式":"1",
-        "搜索url":"https://www.ttdao6614.buzz/index.php/vod/search/page/{pg}/wd/{wd}/",
+        "搜索url":"https://www.ttdao6614.buzz/index.php/vod/search.html?page/{pg}/wd/{wd}/",
         "分类数组":"<a&&/a",
         "分类标题":">&&<",
-        "分类ID":"/vod/type/id/&&/",
-        "分类url":"https://www.ttdao6614.buzz/index.php/vod/type/id/{cateId}/page/{catePg}/;;z"}}, {
+        "分类ID":"/vod/type/id/&&.html",
+        "分类url":"https://www.ttdao6614.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}}, {
             "key": "avge",
             "name": "💗┃💋AVge┃💠",
             "type": 3,
